@@ -53,7 +53,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fshort-history-of-the-toothpick-4154079&psig=AOvVaw09z7Onx9o_KDRGVU6Kqltw&ust=1707444315800000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiMrunTmoQDFQAAAAAdAAAAABAD)
+![alt text](https://www.thoughtco.com/thmb/WPLDJTKu2uUMCGHj1O9kB20gPGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Toothpick-59f86d44aad52b0010170006.jpg)
 
 ## Extended Syntax
 
