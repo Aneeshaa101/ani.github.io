@@ -53,7 +53,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fphoto%2F23927417-fat-elephant-illustration-generative-ai&psig=AOvVaw3ZIkwzV6YiW8zXCnop6baL&ust=1707444023446000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND8md3SmoQDFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fshort-history-of-the-toothpick-4154079&psig=AOvVaw09z7Onx9o_KDRGVU6Kqltw&ust=1707444315800000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiMrunTmoQDFQAAAAAdAAAAABAD)
 
 ## Extended Syntax
 
